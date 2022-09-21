@@ -5,7 +5,8 @@
  * @returns {"valid" | "invalid"} Whether or not the string is valid.
  */
 function isValid(str) {
-  return "nonso"
+  let name = 'NONSO'
+  return name;
 }
 
 module.exports = isValid;
